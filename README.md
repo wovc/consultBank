@@ -21,6 +21,3 @@ O usuário escolhe digitando o número correspondente, e o código usa um `switc
 O saldo é armazenado em uma variável do tipo `double` e atualizado conforme o usuário deposita ou saca valores.
 
 ---
-
-## 🧾 Exemplo de uso
-
